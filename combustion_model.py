@@ -468,10 +468,3 @@ class TGACombustion(CokeCombustion):
         df_total = pd.concat([self.exp_data.reset_index(drop=True), df_sim_results], axis=1)  # Merging simulation results with exp data
     
         return df_total
-
-    
-class XRDCombustion(CokeCombustion):
-
-    def __init__(self, inital_value_widgets, *, exp_data, Po=0.2, dTdt=2):
-        super().__init__(inital_value_widgets, exp_data, Po, dTdt)
-
