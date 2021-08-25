@@ -12,10 +12,20 @@ chemical combustion models allows deconvoluting of DTA curves and
 subsequent mass fraction determination, followed by chemical parameters
 for each mass fraction.
 
+Please see the example notebook on how to use the combustion class.
+
 ## Examples
+
+The chemical parameters are easily found by using the interactive
+features of the combustion class.
+
 ![Interactive](./images/interactive_inital_guesses.PNG)
 
-## Requirements
+The guess parameters can then be refined.
+
+![Refine](./images/refined_parameters.PNG)
+
+## Dependencies
 
 The python class uses ipywidgets and JupyterLab/Jupyter Notebook.
 This needs to be configured in your jupyter environment.
