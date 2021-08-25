@@ -1,9 +1,5 @@
 # Interactive Chemical Combustion
 
-* [General info](#general-info)
-* [Requirements](#requirements)
-* [How-To-Run](#How-To-Run)
-
 ## General info
 
 This is a interactive python class for simulating ideal combustion
@@ -16,9 +12,10 @@ chemical combustion models allows deconvoluting of DTA curves and
 subsequent mass fraction determination, followed by chemical parameters
 for each mass fraction.
 
+## Examples
+![Interactive](./images/interactive_inital_guesses.PNG)
 
 ## Requirements
-ipywidgets
 
-## Examples
-
+The python class uses ipywidgets and JupyterLab/Jupyter Notebook.
+This needs to be configured in your jupyter environment.
