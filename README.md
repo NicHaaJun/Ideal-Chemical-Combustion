@@ -2,7 +2,7 @@
 
 ## General info
 
-This is a interactive python class for simulating ideal combustion
+This is an interactive python class for simulating ideal combustion
 based on non-linear least squares optimization from experimental
 TGA/DTA (Thermal Gravimetric Analysis) data. 
 
@@ -13,17 +13,6 @@ subsequent mass fraction determination, followed by chemical parameters
 for each mass fraction.
 
 Please see the example notebook on how to use the combustion class.
-
-## Examples
-
-The chemical parameters are easily found by using the interactive
-features of the combustion class.
-
-![Interactive](./images/interactive_inital_guesses.PNG)
-
-The guess parameters can then be refined.
-
-![Refine](./images/refined_parameters.PNG)
 
 ## Dependencies
 
