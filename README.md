@@ -18,3 +18,7 @@ Please see the example notebook on how to use the combustion class.
 
 The python class uses ipywidgets and JupyterLab/Jupyter Notebook.
 This needs to be configured in your jupyter environment.
+
+___
+
+![image](https://user-images.githubusercontent.com/70808555/130940152-6a62cd05-4d42-4fb2-be52-fa71b21206aa.png)
