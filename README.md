@@ -21,4 +21,4 @@ This needs to be configured in your jupyter environment.
 
 ___
 
-![image](https://user-images.githubusercontent.com/70808555/130940152-6a62cd05-4d42-4fb2-be52-fa71b21206aa.png)
+![image](https://user-images.githubusercontent.com/70808555/130940813-3fc94666-e99c-4136-a1f9-1ff0c7ac3019.png)
